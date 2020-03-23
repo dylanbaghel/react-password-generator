@@ -55,6 +55,7 @@
   color: #fff;
   font-size: 0.9rem;
   width: 100%;
+  margin-top: 1.5rem;
 }
 
 .disabled {
@@ -63,7 +64,7 @@
 }
 
 .password__result {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .checkbox {
